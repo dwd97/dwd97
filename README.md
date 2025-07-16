@@ -1,20 +1,37 @@
-# DCZT developer
+# 👨‍💻 DCZT Developer – David
 
-I'm David, a software developer. My main skills are Unity 3D, Web development, Swift and the Flutter framework. I utilize them mainly in mobile development under my alias: DCZT. You can check out my website here: [DCZT'S aka my website](https://www.dczt.dev)
+Hi, I'm **David**, a passionate software developer building cool, useful, and sometimes weird stuff under the alias **DCZT**. My core skills include:
 
-## My main projects include:
+- 🕹️ **Unity 3D**  
+- 🌐 **Web Development**  
+- 🍎 **Swift**  
+- 📱 **Flutter Framework**
 
-- Frequency Generator
-- Speaker Cleaner
-- Antistress games - relaxation toys
-- 1 2 3 4 Player Mini Games
-- LED Scroller
-- Decision Roulette
-- AI Calorie Counter
-- Yes or No - Decision Maker
-- PDF Reader (stopped development)
-- Reaction time test (stopped development)
+I specialize in mobile development and enjoy crafting apps that are both functional and fun.
 
-+ More than 40 other failed projects/games/apps whatever you want to call it. Success is not about doing it right the first time but showing up every day and learning from mistakes. (I don't publish my failed projects as I feel I should move on :) )
+🌐 Check out my website: [dczt.dev](https://www.dczt.dev)
 
-- If you want to reach me, please message me directly through my website linked above.
+---
+
+## 🚀 Featured Projects
+
+Here are some of the main apps I've built:
+
+- 🎵 **Frequency Generator**  
+- 💧 **Speaker Cleaner**  
+- 🧘 **Antistress Games – Relaxation Toys**  
+- 🎮 **1 2 3 4 Player Mini Games**  
+- 💡 **LED Scroller**  
+- 🎲 **Decision Roulette**  
+- 🍔 **AI Calorie Counter**  
+- ❓ **Yes or No – Decision Maker**  
+- 📄 **PDF Reader** _(discontinued)_  
+- ⚡ **Reaction Time Test** _(discontinued)_
+
+> 💡 I've also made **40+ other projects**—most of which never saw the light of day. I believe success isn't about getting it perfect the first time, but about **showing up daily and learning from the process**.  
+> I don’t publish my “failed” projects—they were part of the journey, and that’s enough for me. 😊
+
+---
+
+📬 **Want to get in touch?**  
+The best way is through my website: [www.dczt.dev](https://www.dczt.dev)
