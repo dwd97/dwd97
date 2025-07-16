@@ -15,6 +15,6 @@ I'm David, a software developer. My main skills are Unity 3D, Web development, S
 - PDF Reader (stopped development)
 - Reaction time test (stopped development)
 
-- + More than 40 other failed projects/games/apps whatever you want to call it. Success is not about doing it right the first time but showing up every day and learning from mistakes. (I don't publish my failed projects as I feel I should move on :) )
+++ More than 40 other failed projects/games/apps whatever you want to call it. Success is not about doing it right the first time but showing up every day and learning from mistakes. (I don't publish my failed projects as I feel I should move on :) )
 
 - If you want to reach me, please message me directly through my website linked above.
